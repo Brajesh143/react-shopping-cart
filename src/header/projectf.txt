@@ -1,0 +1,11 @@
+1. thumbnail issue on product list
+2. On edit remove mandatory field of image and sku
+3. Category list and manufacture in pagination also solve issue of page select 
+4. Add type on product detail page that is product model in admin product
+5. resolve varient issue and show it on front end
+6. Search by composition name on front and also with name
+7. Make banner, sub banner and add image dynamic and also make menu in admin panel
+8. ayurweda and homeopathy product category wise on front end
+9. on product detail double image issue
+10. Comment rating and review
+11. Location on front end 
